@@ -1,0 +1,11 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+I chose to use Python as my programming language for this exercise as I like the ease of use. I used flask to create the endpoints and Postman to test my code through development. If not python, I would have used Java Springboot to build the API's with either a Maven or Gradle build. Additionally, I would have loved to incorporate a PostgreSQL database as the backend for this kind of application
+
+2. What are the advantages and disadvantages of your solution?
+
+My solution is time-efficent and uses Hashmaps and Arrays to great extent. This allows for quick runing time and makes it easy to understand if I am working with a team. I have considered a few edge cases in my testing which allows this app to work under differnt circumstances.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+A favourite project was one that I worked on at my previous internship. I had to build a full-stack applicatiton using MYSQL, Java Springboot and React. It was very interesting to see full stack development as I got to learn the entire Software development Life Cycle from scrach and understood how code is developed and pushed into production.
